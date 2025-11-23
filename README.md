@@ -1,0 +1,2 @@
+# simpledaemon
+Python script
